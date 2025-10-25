@@ -1,5 +1,4 @@
 h1 {
-background-color: beige;
 font-size: 48px;
 font-family: "Arial", sans-serif;
 font-style: italic;
@@ -9,10 +8,12 @@ border-radius: 8px;
 color: white
 }
 body {
-font-family: "Verdana", sans-serif;
+box-sizing: border-box;
+font-family: "Lucida Sans";
 font-size: 21px;
-background-image: url(lt.jpeg);
+background-image: url("lt.jpeg");
 background-size: cover;
 background-position: center;
 background-repeat: no repeat;
+
 } 
